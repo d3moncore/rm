@@ -1,5 +1,3 @@
-# insure-ai
-
 ## Development Instructions
 
 ### Requirements
